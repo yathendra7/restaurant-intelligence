@@ -1,0 +1,11 @@
+RESTAURANT REVIEW ANALYSIS - DATASET LIMITATION
+============================================================
+
+The provided dataset does not contain actual written restaurant review or comment text.
+
+Therefore, keyword-frequency analysis and average review-length analysis cannot be performed directly.
+
+The available 'Rating text' column was used as the available textual feedback classification.
+
+Positive categories used: Excellent, Very Good, Good.
+Negative categories used: Average, Poor.
